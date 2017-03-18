@@ -32,15 +32,14 @@ to start building on.
 
 ## [Vue 2](https://vuejs.org/)
 
-Vue 2 is a *progressive* Javascript view framework that is designed to have a light footprint and be incrementally adoptable. Vue 2 combines templating (like Angular) with a reactive Virtual DOM rendering engine based on VDOM for amazing rendering performance (x2 React).
+Vue 2 is a *progressive* Javascript view framework that is designed to have a light footprint and be incrementally adoptable. Vue 2 combines templating (like Angular) with a reactive Virtual DOM rendering engine based on VDOM for amazing performance (x2 React).
 
 <img src="/images/quickstart/vue2.png" alt="Vue - view framework" style="width: 100px; height: 100px" />
 
 [Vue2, Apollo & Scaphold.io Starter kit](https://github.com/kristianmandrup/vue2-apollo-scaphold) with *User Registration* and *Login*
 
-[Comparison with other SPA frameworks](https://vuejs.org/v2/guide/comparison.html)
-
-Vue 2 can also be used to develop cross platform native apps via [Apache Weex](https://github.com/apache/incubator-weex). See this [Tuturial](http://weex.apache.org/guide/)
+- Cross platform native apps with Vue 2 and [Apache Weex](https://weex.apache.org/).
+- [Vue 2 framework comparison](https://vuejs.org/v2/guide/comparison.html)
 
 ## [React Native](https://facebook.github.io/react-native/)
 
