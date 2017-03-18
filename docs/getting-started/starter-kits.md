@@ -38,8 +38,10 @@ Vue 2 is a *progressive* Javascript view framework that is designed to have a li
 
 [Vue2, Apollo & Scaphold.io Starter kit](https://github.com/kristianmandrup/vue2-apollo-scaphold) with *User Registration* and *Login*
 
-- Cross platform native apps with Vue 2 and [Apache Weex](https://weex.apache.org/).
-- [Vue 2 framework comparison](https://vuejs.org/v2/guide/comparison.html)
+### Vue 2 native via Weex
+Chinese E-commerce giant Alibaba have developed [Apache Weex](https://weex.apache.org/) to enable development of cross platform native apps with Vue 2.
+
+Weex finally delivers on the "age old" dream: [write once run everywhere](http://weex.apache.org/guide/intro/write-once.html)
 
 ## [React Native](https://facebook.github.io/react-native/)
 
